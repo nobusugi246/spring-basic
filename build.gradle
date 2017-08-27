@@ -32,9 +32,9 @@ dependencies {
     compile 'org.mybatis.spring.boot:mybatis-spring-boot-starter:1.2.2'
 
     runtime 'org.springframework.boot:spring-boot-devtools'
-    // runtime 'com.h2database:h2'
+    runtime 'com.h2database:h2'
 
-    compileOnly 'org.projectlombok:lombok'
+    compileOnly 'org.projectlombok:lombok:1.16.18'
 
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.springframework.restdocs:spring-restdocs-mockmvc'
