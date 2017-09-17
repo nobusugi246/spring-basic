@@ -7,7 +7,8 @@
 受け入れ基準
 ----------
 
+* [ ]  
 
 
 
-/label ~feature
+/label ~Feature

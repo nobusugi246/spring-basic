@@ -19,4 +19,4 @@
 
 
 
-/label ~bug
+/label ~Bug
